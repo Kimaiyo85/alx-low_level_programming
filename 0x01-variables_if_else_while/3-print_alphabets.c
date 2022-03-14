@@ -3,11 +3,11 @@
 
 
 /**
- *
- * main - print alphabet in lower and uppercase
- *
- * Return: (0) Success
- *
+*
+* main - print alphabet in lower and uppercase
+*
+* Return: (0) Success
+*
 */
 
 int main(void)
