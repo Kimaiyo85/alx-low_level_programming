@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - Print combinations of two digit numbers
-* Dorothy Kimaiyo
+* main - Print combinations of two digit numbers in ascending order
+* Return: (0) Success
 */
 
 int main(void)
