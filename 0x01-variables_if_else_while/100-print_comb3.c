@@ -2,7 +2,7 @@
 
 /**
 * main - Print combinations of two digit numbers
-* Return: Always 0 (Success)
+* Dorothy Kimaiyo
 */
 
 int main(void)

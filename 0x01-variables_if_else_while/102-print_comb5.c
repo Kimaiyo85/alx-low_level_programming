@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - a simple program that outputs unordered
-* combinations of two digit integers without duplicate
-* Return: 0 on success
+*by
+* Dorothy Kimaiyo
 */
 
 int main(void)
