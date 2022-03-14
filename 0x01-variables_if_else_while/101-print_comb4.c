@@ -2,7 +2,7 @@
 
 /**
 * main - a simple program that outputs 0-9 separated by commas
-* Dorothy Kimaiyo
+* Return; (0) Success
 */
 
 int main(void)
