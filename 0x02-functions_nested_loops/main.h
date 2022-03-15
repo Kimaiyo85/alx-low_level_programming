@@ -4,6 +4,7 @@
  * Header file containing declaration of all functions used.
  */
 
-int _putchat(char c);
+int _putchar(char c);
+void print_alphabet(void);
 
 #endif
