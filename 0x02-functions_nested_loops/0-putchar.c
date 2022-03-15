@@ -5,7 +5,7 @@
  * Return (0): Success
  */
 
-int main()
+int main(void)
 
 {
 	putchar('_');
@@ -18,6 +18,6 @@ int main()
 	putchar('r');
 	putchar('\n');
 
-return (0);
+	return (0);
 
 }
