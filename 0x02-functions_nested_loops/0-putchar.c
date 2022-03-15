@@ -5,7 +5,7 @@
  * Return (0): Success
  */
 
-int putchar(void)
+int main(void)
 
 {
 	putchar('_');
