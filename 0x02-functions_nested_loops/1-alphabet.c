@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-/*
+/**
 * print_alphabet - prints the alphabet in lowercase, followed by a new line.
 */
 
@@ -12,9 +12,9 @@ void print_alphabet(void);
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 
-	putchar(letter);
+	_putchar(letter);
 
-	putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
